@@ -3,8 +3,8 @@ Scheduling System
 
 Taylor Mathews
 
-Chase
+Chase LaPrime
 
-Michael
+Michael Deluca
 
-Stephen
+Stephen George
